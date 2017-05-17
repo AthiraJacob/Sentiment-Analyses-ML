@@ -1,0 +1,137 @@
+ 
+Embedding dim: 64, Layers: (100,500), Dropout 0.25, Validation acc: 0.770883
+Embedding dim: 64, Layers: (100,500), Dropout 0.5, Validation acc: 0.789814
+Embedding dim: 64, Layers: (100,500), Dropout 0.6, Validation acc: 0.76893
+Embedding dim: 64, Layers: (100,500), Dropout 0.7, Validation acc: 0.769381
+Embedding dim: 64, Layers: (100,500), Dropout 1, Validation acc: 0.75631
+Embedding dim: 64, Layers: (500,1000), Dropout 0.25, Validation acc: 0.776442
+Embedding dim: 64, Layers: (500,1000), Dropout 0.5, Validation acc: 0.745643
+Embedding dim: 64, Layers: (500,1000), Dropout 0.6, Validation acc: 0.760066
+Embedding dim: 64, Layers: (500,1000), Dropout 0.7, Validation acc: 0.76893
+Embedding dim: 64, Layers: (500,1000), Dropout 1, Validation acc: 0.772837
+Embedding dim: 64, Layers: (100,1000), Dropout 0.25, Validation acc: 0.784105
+Embedding dim: 64, Layers: (100,1000), Dropout 0.5, Validation acc: 0.758263
+Embedding dim: 64, Layers: (100,1000), Dropout 0.6, Validation acc: 0.750751
+Embedding dim: 64, Layers: (100,1000), Dropout 0.7, Validation acc: 0.757362
+Embedding dim: 64, Layers: (100,1000), Dropout 1, Validation acc: 0.768029
+Embedding dim: 64, Layers: (1000,500), Dropout 0.25, Validation acc: 0.76893
+Embedding dim: 64, Layers: (1000,500), Dropout 0.5, Validation acc: 0.76232
+Embedding dim: 64, Layers: (1000,500), Dropout 0.6, Validation acc: 0.762169
+Embedding dim: 64, Layers: (1000,500), Dropout 0.7, Validation acc: 0.766526
+Embedding dim: 64, Layers: (1000,500), Dropout 1, Validation acc: 0.764573
+Embedding dim: 64, Layers: (1000,100), Dropout 0.25, Validation acc: 0.672326
+Embedding dim: 64, Layers: (1000,100), Dropout 0.5, Validation acc: 0.762169
+Embedding dim: 64, Layers: (1000,100), Dropout 0.6, Validation acc: 0.779297
+Embedding dim: 64, Layers: (1000,100), Dropout 0.7, Validation acc: 0.753005
+Embedding dim: 64, Layers: (1000,100), Dropout 1, Validation acc: 0.762019
+Embedding dim: 64, Layers: (100,100, 1000), Dropout 0.25, Validation acc: 0.672776
+Embedding dim: 64, Layers: (100,100, 1000), Dropout 0.5, Validation acc: 0.766977
+Embedding dim: 64, Layers: (100,100, 1000), Dropout 0.6, Validation acc: 0.771935
+Embedding dim: 64, Layers: (100,100, 1000), Dropout 0.7, Validation acc: 0.765174
+Embedding dim: 64, Layers: (100,100, 1000), Dropout 1, Validation acc: 0.763672
+Embedding dim: 64, Layers: (500,500, 5000), Dropout 0.25, Validation acc: 0.672326
+Embedding dim: 64, Layers: (500,500, 5000), Dropout 0.5, Validation acc: 0.762169
+Embedding dim: 64, Layers: (500,500, 5000), Dropout 0.6, Validation acc: 0.764273
+Embedding dim: 64, Layers: (500,500, 5000), Dropout 0.7, Validation acc: 0.778245
+Embedding dim: 64, Layers: (500,500, 5000), Dropout 1, Validation acc: 0.772837
+Embedding dim: 64, Layers: (1000,1000,1000), Dropout 0.25, Validation acc: 0.671875
+Embedding dim: 64, Layers: (1000,1000,1000), Dropout 0.5, Validation acc: 0.782151
+Embedding dim: 64, Layers: (1000,1000,1000), Dropout 0.6, Validation acc: 0.761869
+Embedding dim: 64, Layers: (1000,1000,1000), Dropout 0.7, Validation acc: 0.744141
+Embedding dim: 64, Layers: (1000,1000,1000), Dropout 1, Validation acc: 0.755108
+Embedding dim: 64, Layers: (100,500, 1000), Dropout 0.25, Validation acc: 0.674129
+Embedding dim: 64, Layers: (100,500, 1000), Dropout 0.5, Validation acc: 0.765625
+Embedding dim: 64, Layers: (100,500, 1000), Dropout 0.6, Validation acc: 0.77524
+Embedding dim: 64, Layers: (100,500, 1000), Dropout 0.7, Validation acc: 0.784856
+Embedding dim: 64, Layers: (100,500, 1000), Dropout 1, Validation acc: 0.761719
+Embedding dim: 128, Layers: (100,500), Dropout 0.25, Validation acc: 0.754507
+Embedding dim: 128, Layers: (100,500), Dropout 0.5, Validation acc: 0.78741
+Embedding dim: 128, Layers: (100,500), Dropout 0.6, Validation acc: 0.769081
+Embedding dim: 128, Layers: (100,500), Dropout 0.7, Validation acc: 0.767879
+Embedding dim: 128, Layers: (100,500), Dropout 1, Validation acc: 0.779748
+Embedding dim: 128, Layers: (500,1000), Dropout 0.25, Validation acc: 0.760817
+Embedding dim: 128, Layers: (500,1000), Dropout 0.5, Validation acc: 0.771484
+Embedding dim: 128, Layers: (500,1000), Dropout 0.6, Validation acc: 0.780198
+Embedding dim: 128, Layers: (500,1000), Dropout 0.7, Validation acc: 0.767428
+Embedding dim: 128, Layers: (500,1000), Dropout 1, Validation acc: 0.769682
+Embedding dim: 128, Layers: (100,1000), Dropout 0.25, Validation acc: 0.758263
+Embedding dim: 128, Layers: (100,1000), Dropout 0.5, Validation acc: 0.785607
+Embedding dim: 128, Layers: (100,1000), Dropout 0.6, Validation acc: 0.780048
+Embedding dim: 128, Layers: (100,1000), Dropout 0.7, Validation acc: 0.763972
+Embedding dim: 128, Layers: (100,1000), Dropout 1, Validation acc: 0.775391
+Embedding dim: 128, Layers: (1000,500), Dropout 0.25, Validation acc: 0.774339
+Embedding dim: 128, Layers: (1000,500), Dropout 0.5, Validation acc: 0.767879
+Embedding dim: 128, Layers: (1000,500), Dropout 0.6, Validation acc: 0.778245
+Embedding dim: 128, Layers: (1000,500), Dropout 0.7, Validation acc: 0.766977
+Embedding dim: 128, Layers: (1000,500), Dropout 1, Validation acc: 0.764724
+Embedding dim: 128, Layers: (1000,100), Dropout 0.25, Validation acc: 0.671875
+Embedding dim: 128, Layers: (1000,100), Dropout 0.5, Validation acc: 0.768179
+Embedding dim: 128, Layers: (1000,100), Dropout 0.6, Validation acc: 0.779597
+Embedding dim: 128, Layers: (1000,100), Dropout 0.7, Validation acc: 0.771334
+Embedding dim: 128, Layers: (1000,100), Dropout 1, Validation acc: 0.771334
+Embedding dim: 128, Layers: (100,100, 1000), Dropout 0.25, Validation acc: 0.672776
+Embedding dim: 128, Layers: (100,100, 1000), Dropout 0.5, Validation acc: 0.765475
+Embedding dim: 128, Layers: (100,100, 1000), Dropout 0.6, Validation acc: 0.77524
+Embedding dim: 128, Layers: (100,100, 1000), Dropout 0.7, Validation acc: 0.771935
+Embedding dim: 128, Layers: (100,100, 1000), Dropout 1, Validation acc: 0.759615
+Embedding dim: 128, Layers: (500,500, 5000), Dropout 0.25, Validation acc: 0.672776
+Embedding dim: 128, Layers: (500,500, 5000), Dropout 0.5, Validation acc: 0.772386
+Embedding dim: 128, Layers: (500,500, 5000), Dropout 0.6, Validation acc: 0.764573
+Embedding dim: 128, Layers: (500,500, 5000), Dropout 0.7, Validation acc: 0.778095
+Embedding dim: 128, Layers: (500,500, 5000), Dropout 1, Validation acc: 0.77479
+Embedding dim: 128, Layers: (1000,1000,1000), Dropout 0.25, Validation acc: 0.673227
+Embedding dim: 128, Layers: (1000,1000,1000), Dropout 0.5, Validation acc: 0.765925
+Embedding dim: 128, Layers: (1000,1000,1000), Dropout 0.6, Validation acc: 0.764123
+Embedding dim: 128, Layers: (1000,1000,1000), Dropout 0.7, Validation acc: 0.763972
+Embedding dim: 128, Layers: (1000,1000,1000), Dropout 1, Validation acc: 0.769531
+Embedding dim: 128, Layers: (100,500, 1000), Dropout 0.25, Validation acc: 0.673227
+Embedding dim: 128, Layers: (100,500, 1000), Dropout 0.5, Validation acc: 0.779748
+Embedding dim: 128, Layers: (100,500, 1000), Dropout 0.6, Validation acc: 0.762169
+Embedding dim: 128, Layers: (100,500, 1000), Dropout 0.7, Validation acc: 0.774038
+Embedding dim: 128, Layers: (100,500, 1000), Dropout 1, Validation acc: 0.772837
+Embedding dim: 256, Layers: (100,500), Dropout 0.25, Validation acc: 0.673227
+Embedding dim: 256, Layers: (100,500), Dropout 0.5, Validation acc: 0.769531
+Embedding dim: 256, Layers: (100,500), Dropout 0.6, Validation acc: 0.767578
+Embedding dim: 256, Layers: (100,500), Dropout 0.7, Validation acc: 0.785006
+Embedding dim: 256, Layers: (100,500), Dropout 1, Validation acc: 0.766226
+Embedding dim: 256, Layers: (500,1000), Dropout 0.25, Validation acc: 0.674129
+Embedding dim: 256, Layers: (500,1000), Dropout 0.5, Validation acc: 0.759615
+Embedding dim: 256, Layers: (500,1000), Dropout 0.6, Validation acc: 0.766376
+Embedding dim: 256, Layers: (500,1000), Dropout 0.7, Validation acc: 0.763071
+Embedding dim: 256, Layers: (500,1000), Dropout 1, Validation acc: 0.778245
+Embedding dim: 256, Layers: (100,1000), Dropout 0.25, Validation acc: 0.680739
+Embedding dim: 256, Layers: (100,1000), Dropout 0.5, Validation acc: 0.766526
+Embedding dim: 256, Layers: (100,1000), Dropout 0.6, Validation acc: 0.776292
+Embedding dim: 256, Layers: (100,1000), Dropout 0.7, Validation acc: 0.773888
+Embedding dim: 256, Layers: (100,1000), Dropout 1, Validation acc: 0.778395
+Embedding dim: 256, Layers: (1000,500), Dropout 0.25, Validation acc: 0.674579
+Embedding dim: 256, Layers: (1000,500), Dropout 0.5, Validation acc: 0.791917
+Embedding dim: 256, Layers: (1000,500), Dropout 0.6, Validation acc: 0.782001
+Embedding dim: 256, Layers: (1000,500), Dropout 0.7, Validation acc: 0.771935
+Embedding dim: 256, Layers: (1000,500), Dropout 1, Validation acc: 0.776743
+Embedding dim: 256, Layers: (1000,100), Dropout 0.25, Validation acc: 0.673678
+Embedding dim: 256, Layers: (1000,100), Dropout 0.5, Validation acc: 0.776442
+Embedding dim: 256, Layers: (1000,100), Dropout 0.6, Validation acc: 0.769681
+Embedding dim: 256, Layers: (1000,100), Dropout 0.7, Validation acc: 0.785306
+Embedding dim: 256, Layers: (1000,100), Dropout 1, Validation acc: 0.782001
+Embedding dim: 256, Layers: (100,100, 1000), Dropout 0.25, Validation acc: 0.674129
+Embedding dim: 256, Layers: (100,100, 1000), Dropout 0.5, Validation acc: 0.764573
+Embedding dim: 256, Layers: (100,100, 1000), Dropout 0.6, Validation acc: 0.758714
+Embedding dim: 256, Layers: (100,100, 1000), Dropout 0.7, Validation acc: 0.772837
+Embedding dim: 256, Layers: (100,100, 1000), Dropout 1, Validation acc: 0.783504
+Embedding dim: 256, Layers: (500,500, 5000), Dropout 0.25, Validation acc: 0.673678
+Embedding dim: 256, Layers: (500,500, 5000), Dropout 0.5, Validation acc: 0.673678
+Embedding dim: 256, Layers: (500,500, 5000), Dropout 0.6, Validation acc: 0.771334
+Embedding dim: 256, Layers: (500,500, 5000), Dropout 0.7, Validation acc: 0.765925
+Embedding dim: 256, Layers: (500,500, 5000), Dropout 1, Validation acc: 0.756761
+Embedding dim: 256, Layers: (1000,1000,1000), Dropout 0.25, Validation acc: 0.673678
+Embedding dim: 256, Layers: (1000,1000,1000), Dropout 0.5, Validation acc: 0.744141
+Embedding dim: 256, Layers: (1000,1000,1000), Dropout 0.6, Validation acc: 0.772686
+Embedding dim: 256, Layers: (1000,1000,1000), Dropout 0.7, Validation acc: 0.771334
+Embedding dim: 256, Layers: (1000,1000,1000), Dropout 1, Validation acc: 0.753756
+Embedding dim: 256, Layers: (100,500, 1000), Dropout 0.25, Validation acc: 0.673227
+Embedding dim: 256, Layers: (100,500, 1000), Dropout 0.5, Validation acc: 0.761719
+Embedding dim: 256, Layers: (100,500, 1000), Dropout 0.6, Validation acc: 0.76863
+Embedding dim: 256, Layers: (100,500, 1000), Dropout 0.7, Validation acc: 0.779297
+Embedding dim: 256, Layers: (100,500, 1000), Dropout 1, Validation acc: 0.772987
+

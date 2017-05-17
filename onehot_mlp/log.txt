@@ -1,0 +1,27 @@
+Layers: (1000,500), Dropout 0.25, Validation acc: 0.755709
+Layers: (1000,500), Dropout 0.5, Validation acc: 0.758714
+Layers: (1000,500), Dropout 0.6, Validation acc: 0.763672
+Layers: (1000,500), Dropout 0.7, Validation acc: 0.751953
+Layers: (1000,500), Dropout 1, Validation acc: 0.744141
+Layers: (500, 500), Dropout 0.25, Validation acc: 0.755258
+Layers: (500, 500), Dropout 0.5, Validation acc: 0.76262
+Layers: (500, 500), Dropout 0.6, Validation acc: 0.761118
+Layers: (500, 500), Dropout 0.7, Validation acc: 0.754357
+Layers: (500, 500), Dropout 1, Validation acc: 0.751803
+Layers: (1000,1000), Dropout 0.25, Validation acc: 0.766376
+Layers: (1000,1000), Dropout 0.5, Validation acc: 0.775691
+Layers: (1000,1000), Dropout 0.6, Validation acc: 0.765174
+Layers: (1000,1000), Dropout 0.7, Validation acc: 0.761118
+Layers: (1000,1000), Dropout 1, Validation acc: 0.747897
+Layers: (2000,1000), Dropout 0.25, Validation acc: 0.765174
+Layers: (2000,1000), Dropout 0.5, Validation acc: 0.754808
+Layers: (2000,1000), Dropout 0.6, Validation acc: 0.769832
+Layers: (2000,1000), Dropout 0.7, Validation acc: 0.760216
+Layers: (2000,1000), Dropout 1, Validation acc: 0.742188
+Layers: (2000,1000, 500), Dropout 0.25, Validation acc: 0.756761
+Layers: (2000,1000, 500), Dropout 0.5, Validation acc: 0.762019
+Layers: (2000,1000, 500), Dropout 0.6, Validation acc: 0.765475
+Layers: (2000,1000, 500), Dropout 0.7, Validation acc: 0.758263
+Layers: (2000,1000, 500), Dropout 1, Validation acc: 0.73738
+Layers: (2000,2000, 2000), Dropout 0.25, Validation acc: 0.765926
+Layers: (2000,2000, 2000), Dropout 0.5, Validation acc: 0.76262

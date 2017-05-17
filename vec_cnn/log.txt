@@ -1,0 +1,26 @@
+Embedding dim: 64 Filter sizes 2,2,2, Num filters 128, Dropout 0.5, Validation acc: 0.751352
+Embedding dim: 64 Filter sizes 4,4,4, Num filters 128, Dropout 0.5, Validation acc: 0.733474
+Embedding dim: 64 Filter sizes 6,6,6, Num filters 128, Dropout 0.5, Validation acc: 0.742188
+Embedding dim: 64 Filter sizes 8,8,8, Num filters 128, Dropout 0.5, Validation acc: 0.723257
+Embedding dim: 128 Filter sizes 2,2,2, Num filters 128, Dropout 0.5, Validation acc: 0.754357
+Embedding dim: 128 Filter sizes 4,4,4, Num filters 128, Dropout 0.5, Validation acc: 0.757362
+Embedding dim: 128 Filter sizes 6,6,6, Num filters 128, Dropout 0.5, Validation acc: 0.746094
+Embedding dim: 128 Filter sizes 8,8,8, Num filters 128, Dropout 0.5, Validation acc: 0.731821
+Embedding dim: 256 Filter sizes 2,2,2, Num filters 128, Dropout 0.5, Validation acc: 0.754808
+Embedding dim: 256 Filter sizes 4,4,4, Num filters 128, Dropout 0.5, Validation acc: 0.756761
+Embedding dim: 256 Filter sizes 6,6,6, Num filters 128, Dropout 0.5, Validation acc: 0.754357
+Embedding dim: 256 Filter sizes 8,8,8, Num filters 128, Dropout 0.5, Validation acc: 0.757212
+
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 32, Dropout 0.5, Validation acc: 0.744591
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 32, Dropout 0.6, Validation acc: 0.760667
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 32, Dropout 0.7, Validation acc: 0.750901
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 64, Dropout 0.5, Validation acc: 0.760216
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 64, Dropout 0.6, Validation acc: 0.758864
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 64, Dropout 0.7, Validation acc: 0.760216
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 128, Dropout 0.5, Validation acc: 0.773888
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 128, Dropout 0.6, Validation acc: 0.758263
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 128, Dropout 0.7, Validation acc: 0.749399
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 256, Dropout 0.5, Validation acc: 0.754808
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 256, Dropout 0.6, Validation acc: 0.755859
+Embedding dim: 128 Filter sizes 3,4,5, Num filters 256, Dropout 0.7, Validation acc: 0.747596
+
